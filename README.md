@@ -25,7 +25,7 @@
 
 
 - 🔭 I’m a **Former Software Developer - Intern at Hipe Japan Inc**.
-- 
+
 - 🔭 I’m now currently working as **Associate Software Enginner at Accenture**
 
 - 🌱 I’m currently learning **Full Stack Development**
