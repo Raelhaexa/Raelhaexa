@@ -2,7 +2,7 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <h1 align="center">Hi 👋, I'm John Wendell Senados</h1>
-<h3 align="center">Aspiring Programmer from Philippines</h3>
+<h3 align="center">Software Engineer from Philippines</h3>
 <p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
 
 
@@ -30,7 +30,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development**
 
-- 💬 Ask me about **Flutter, Python, PHP and .Net **
+- 💬 Ask me about **Angular, NodeJS, PHP and .Net **
 
 - 📫 How to reach me **fuerzas353@gmail.com**
 
